@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 99
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 100
+  controlID: 10
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 101
+  controlID: 11
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,14 +289,14 @@ MonoBehaviour:
     height: 383
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 59.995609599999995
+  lastFramingTime: 135.2755697
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 268.3094, y: -1233.55, z: 1851.2721}
+    m_Target: {x: -7.0616455, y: 60.82549, z: 331.35962}
     speed: 2
-    m_Value: {x: 268.3094, y: -1233.55, z: 1851.2721}
+    m_Value: {x: -7.0616455, y: 60.82549, z: 331.35962}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -320,13 +320,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.2447808, y: -0.061908763, z: 0.015663482, w: -0.9674732}
+    m_Target: {x: -0.44443166, y: -0.22482923, z: 0.11628089, w: -0.8593084}
     speed: 2
-    m_Value: {x: -0.2447808, y: -0.061908763, z: 0.015663482, w: -0.9674732}
+    m_Value: {x: -0.4444317, y: -0.22482924, z: 0.1162809, w: -0.8593085}
   m_Size:
-    m_Target: 4243.9805
+    m_Target: 5134.709
     speed: 2
-    m_Value: 4243.9805
+    m_Value: 5134.709
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -367,9 +367,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea270000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9cfbffff00000000
+    m_ExpandedIDs: 70fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -541,13 +541,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Dhana\Documents\CLON_KK\tes_1111\New Unity Project
+  m_LastProjectPath: C:\Users\Dhana\Documents\NEW_LC\tes_1111\New Unity Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 84270000
-    m_LastClickedID: 10116
-    m_ExpandedIDs: 0000000084270000ffffff7f
+    m_SelectedIDs: c8270000
+    m_LastClickedID: 10184
+    m_ExpandedIDs: 00000000c8270000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -575,7 +575,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000084270000
+    m_ExpandedIDs: 00000000c8270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
